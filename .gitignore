@@ -1,6 +1,5 @@
 # Ignore dataset CSV
 mapreduce/input/sentimentsData_clean.csv
-sentimentsData_clean.csv
 
 # Ignore temporary/editor files
 *.log
